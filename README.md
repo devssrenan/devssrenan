@@ -1,5 +1,8 @@
 <img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
 
+- **Desenvolvedor Front End** | [Oya Care](https://www.oya.care/)
+- Formado em **Desenvolvimento Web** :computer: | [Trybe](https://www.betrybe.com/)
+
 <div align="start">
   <a href="https://github.com/devssrenan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devssrenan&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
